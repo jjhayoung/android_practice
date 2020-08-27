@@ -1,1 +1,1 @@
-# android_practice
+# 안드로이드 앱 만들기!!
